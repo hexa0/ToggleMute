@@ -40,10 +40,7 @@
 			<HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
 		</Reference>
 		<Reference Include="LethalCompanyInputUtils">
-		  <HintPath>..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Dev\BepInEx\plugins\Rune580-LethalCompany_InputUtils\LethalCompanyInputUtils.dll</HintPath>
-		</Reference>
-		<Reference Include="LethalLib">
-			<HintPath>..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Dev\BepInEx\plugins\Evaisa-LethalLib\LethalLib\LethalLib.dll</HintPath>
+		  <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\organized\lib\Rune580-LethalCompany_InputUtils-0.7.7\LethalCompanyInputUtils.dll</HintPath>
 		</Reference>
 		<Reference Include="MonoMod.RuntimeDetour">
 		  <HintPath>..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Dev\BepInEx\core\MonoMod.RuntimeDetour.dll</HintPath>

@@ -49,7 +49,7 @@ namespace ToggleMute
                 PlayerControllerB player = GameNetworkManager.Instance.localPlayerController;
                 if (player && Config.allowMuteInTerminal.Value == false)
                 {
-                    if (player.inTerminalMenu || player.isTypingChat)
+                    if (player.inTerminalMenu || player.isTypingChat || player.quickMenuManager.isMenuOpen)
                         return;
                 }
             }
